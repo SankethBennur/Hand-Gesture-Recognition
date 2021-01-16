@@ -1,0 +1,6 @@
+C:\Users\Rakshith\source\repos\first\HandSegmentation\bin\Debug\netstandard2.0\HandSegmentation.deps.json
+C:\Users\Rakshith\source\repos\first\HandSegmentation\bin\Debug\netstandard2.0\HandSegmentation.dll
+C:\Users\Rakshith\source\repos\first\HandSegmentation\obj\Debug\netstandard2.0\HandSegmentation.csprojAssemblyReference.cache
+C:\Users\Rakshith\source\repos\first\HandSegmentation\obj\Debug\netstandard2.0\HandSegmentation.csproj.CoreCompileInputs.cache
+C:\Users\Rakshith\source\repos\first\HandSegmentation\obj\Debug\netstandard2.0\HandSegmentation.AssemblyInfoInputs.cache
+C:\Users\Rakshith\source\repos\first\HandSegmentation\obj\Debug\netstandard2.0\HandSegmentation.AssemblyInfo.cs
