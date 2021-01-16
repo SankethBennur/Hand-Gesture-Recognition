@@ -1,2 +1,1 @@
-# hand-gesture-recognition-3
- 
+# Hand Gesture Recognition
